@@ -58,7 +58,7 @@
 
 
     inlineBlock = ^(int i, int j){
-        
+        NSLog(@"110");
     };
     
 }
